@@ -1,5 +1,6 @@
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drydenje)](https://git.io/streak-stats)
-
+</p>
 <!--
 **drydenje/drydenje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
